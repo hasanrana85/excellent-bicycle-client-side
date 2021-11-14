@@ -1,0 +1,18 @@
+.foot_back {
+    /* background-color: rgb(182, 210, 211); */
+    background-color: rgb(70, 70, 211);
+    padding: 50px;
+}
+
+h2 {
+    color: White;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.logoFooter {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+}

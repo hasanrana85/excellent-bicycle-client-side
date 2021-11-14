@@ -1,0 +1,15 @@
+.buy-btn{
+    padding: 10px 30px;
+    border: 2px solid orange;
+    background-color: orange;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.buy-btn:hover{
+    background-color: white;
+    transition: 0.4s;
+}

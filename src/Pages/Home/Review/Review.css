@@ -1,0 +1,8 @@
+.review_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    border-radius: 30px;
+    margin: 10px;
+}

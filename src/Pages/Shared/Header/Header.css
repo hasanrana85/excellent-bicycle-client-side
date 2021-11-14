@@ -1,0 +1,18 @@
+.logo {
+    height: 60px;
+    width: 60px;
+    
+}
+
+Navbar {
+    background-color: #262339;
+    color: white;
+}
+.logo_head{
+    color: black;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 800;
+    margin-left: 20px;
+    text-shadow: 2px 2px yellow;
+}
